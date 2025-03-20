@@ -1,0 +1,31 @@
+---
+title: "Sarina Doss - Personal Website"
+output: html_document
+---
+
+# Welcome to My Personal Website
+
+Hello, I'm Sarina Doss, a student at UCLA. Welcome to my personal website where I showcase my work and share a bit about myself.
+
+## About Me
+
+![Sarina Doss](/Users/sarinadoss/Documents/Stats 140/Website/IMG_1937.JPG)
+
+I have worked on several projects that demonstrate my skills and expertise. Below you'll find links to some of my projects and my professional profiles.
+
+## Projects
+
+Here are three projects I've worked on. Click on each link to open the project details (in PDF):
+
+- [Project 1](/Users/sarinadoss/Documents/Stats 140/WebsiteSong Popularity.pdf)
+- [Project 2](/Users/sarinadoss/Documents/Stats 140/Website/Predicting Obestity Status.pdf)
+- [Project 3](/Users/sarinadoss/Documents/Stats 140/Website/Credit Card Approval Project.pdf)
+
+## Resume
+
+You can view my resume here: [Resume](/Users/sarinadoss/Documents/Stats 140/Website/Sarina Resume Winter 2025.pdf)
+
+## Connect with Me
+
+- [LinkedIn](https:/linkedin.com/in/sarina-doss-3847241b7)
+- [GitHub](https://github.com/sarinadoss)
